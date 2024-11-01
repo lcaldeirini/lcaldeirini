@@ -275,7 +275,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 60 commits)</small>
+                    <small class="h-details">(computed from last 68 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1358,24 +1358,24 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 3 commits in
-                                        <span class="repo">RC-MKT-Trade/batemetabateforte-core</span>
+                                        <span class="repo">RC-MKT-Trade/batemetabateforte-bff</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">hml</span></div>
                                     <div class="commit">
-                                        <div class="sha">#369c05f</div>
-                                        <div class="message">Merge pull request #4 from RC-MKT-Trade/feat/devops
+                                        <div class="sha">#906cbcf</div>
+                                        <div class="message">Merge pull request #25 from RC-MKT-Trade/feat/devops
 
 Feat/devops</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a5e9587</div>
-                                        <div class="message">Merge branch 'hml' of github.com:RC-MKT-Trade/batemetabateforte-core into feat/devops</div>
+                                        <div class="sha">#247e7ed</div>
+                                        <div class="message">Merge branch 'hml' of github.com:RC-MKT-Trade/batemetabateforte-bff into feat/devops</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eca90ac</div>
-                                        <div class="message">feat: add host and port</div>
+                                        <div class="sha">#02c8d06</div>
+                                        <div class="message">feat: remove content to package.json</div>
                                     </div>
                                 </div>
                             </section>
@@ -1388,12 +1388,12 @@ Feat/devops</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#4 Feat/devops</span>
+                                        <span class="issue">#25 Feat/devops</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">RC-MKT-Trade/batemetabateforte-core</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div> in <span class="repo">RC-MKT-Trade/batemetabateforte-bff</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1405,12 +1405,12 @@ Feat/devops</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4 Feat/devops</span>
+                                        <span class="issue">#25 Feat/devops</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">RC-MKT-Trade/batemetabateforte-core</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div> in <span class="repo">RC-MKT-Trade/batemetabateforte-bff</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1421,15 +1421,15 @@ Feat/devops</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">RC-MKT-Trade/batemetabateforte-core</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">RC-MKT-Trade/batemetabateforte-bff</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">feat/devops</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a5e9587</div>
-                                        <div class="message">Merge branch 'hml' of github.com:RC-MKT-Trade/batemetabateforte-core into feat/devops</div>
+                                        <div class="sha">#247e7ed</div>
+                                        <div class="message">Merge branch 'hml' of github.com:RC-MKT-Trade/batemetabateforte-bff into feat/devops</div>
                                     </div>
                                 </div>
                             </section>
@@ -1442,20 +1442,20 @@ Feat/devops</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">RC-MKT-Trade/batemetabateforte-core</span>
+                                        <span class="repo">RC-MKT-Trade/batemetabateforte-bff</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">hml</span></div>
                                     <div class="commit">
-                                        <div class="sha">#72bf118</div>
-                                        <div class="message">Merge pull request #3 from RC-MKT-Trade/feat/devops
+                                        <div class="sha">#b8c54d3</div>
+                                        <div class="message">Merge pull request #24 from RC-MKT-Trade/feat/devops
 
-feat: remove package-lock.json</div>
+feat: change port</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#27dcc31</div>
-                                        <div class="message">feat: remove package-lock.json</div>
+                                        <div class="sha">#7ccfe0d</div>
+                                        <div class="message">feat: change port</div>
                                     </div>
                                 </div>
                             </section>
@@ -1782,7 +1782,7 @@ feat: remove package-lock.json</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2024, 01:27:16 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 02:22:55 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
